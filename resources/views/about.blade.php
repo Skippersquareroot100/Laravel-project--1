@@ -5,7 +5,7 @@
         <title>ABOUT PAGE</title>
 </head>  
 <body>
-<a herf="{{ route('contact.page') }}"> CONTACT </a>
+<a herf="{{ route('contact.page') }}"> CONTACT </a> //maybe from here problem is occuring
     <h1> This is about page</h1>
     <h2> This is about page</h2>
     <h3> This is about page</h3>
