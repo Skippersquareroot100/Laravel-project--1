@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-20">
         <title>ABOUT PAGE</title>
-</head>  
+</head>
 <body>
-<a herf="{{ route('contact.page') }}"> CONTACT </a> //maybe from here problem is occuring
+<a href="{{ route('contact.page') }}"> CONTACT </a> //maybe from here problem is occuring
     <h1> This is about page</h1>
     <h2> This is about page</h2>
     <h3> This is about page</h3>
